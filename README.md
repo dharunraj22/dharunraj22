@@ -2,26 +2,28 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Agilan;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Dharunraj;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/dharunraj-r-623907201/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+   <code><a href="[https://www.hackerrank.com/aylancodes](https://codeforces.com/profile/dharun__2204)" title="Codeforces Profile"><img width="22" src="images/codeforces.png"> Codeforces</a></code>
+
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Agilan
+  Hi, I'm Dharunraj R
   <br>
   <br>
   🔬 Currently studying M.Sc. Theoretical Computer Science at PSG College of Technology, Coimbatore
   <br>
-  🎓 I graduated from AMM Matriculation Higher Secondary School
+  🎓 I graduated from SKV Matri Higher Secondary School
   <br>
   📚 I’m currently learning how to make a custom GitHub profile
   <br>
-  📫 How to reach me: <a href="mailto: aylancodes@gmail.com">aylancodes@gmail.com</a>
+  📫 How to reach me: <a href="mailto: dharunraj227@gmail.com">dharunraj227@gmail.com</a>
 </p>
 
 <hr>
