@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Dharunraj R</h1>
-<h3 align="center">Data science enthusiast who loves to work with ml models and neural networks</h3>
+<h1 align="center">Hi 👋, Welcome to my profile</h1>
+<h3 align="center"></h3>
 
-- Currently pursuing **M.Sc. Theoretical Computer Science**
+- Currently pursuing final year of **M.Sc. Theoretical Computer Science** at PSG College of Technology
 
-- Looking for internship from **December 2024 to May 2025 **
+- Looking for internship from **December 2024 to May 2025**
 
 - Please reach out to **dharunraj227@gmail.com** for any collaboration activities
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dharunraj .r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharunraj .r" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/dharunraj .r](https://www.linkedin.com/in/dharunraj-r/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharunraj .r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
