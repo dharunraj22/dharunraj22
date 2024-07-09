@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dharunraj R</h1>
 <h3 align="center">Data science enthusiast who loves to work with ml models and neural networks</h3>
 
-- 🔭 I’m currently pursuing **M.Sc. Theoretical Computer Science**
+- Currently pursuing **M.Sc. Theoretical Computer Science**
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- Looking for internship from **December 2024 to May 2025 **
 
-- 📫 How to reach me **dharunraj227@gmail.com**
+- Please reach out to **dharunraj227@gmail.com** for any collaboration activities
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
